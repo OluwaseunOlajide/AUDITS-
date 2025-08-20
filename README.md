@@ -1,6 +1,6 @@
 <h1>MY AUDITS</h1>
 <h2>WHO AM I?</h2>
-<P> Hi there, my name is OLajide Oluwaseun (a.k.a WEB3GIANT) I am a freelance web3 security researcher and auditor </P>
+<P> Hi there, my name is OLajide Oluwaseun (a.k.a WEB3GIANT) I am a web3 security researcher and auditor </P>
 <h2>WHAT THIS IS?</h2>
 <P>This repository will be containing all my:</P>
 <li>Solo audit reportss</li>
