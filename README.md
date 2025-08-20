@@ -12,5 +12,6 @@
 <li>To showcase my skills and progress</li>
 <li>To aid other resaerchers</li>
 <h3>DISCLAIMER</h3>
+<p> Security evolves so some vulnerabilities may no longer exist</p>
 <h2>MY AUDITS SO FAR</h2>
 <li><a href="https://github.com/OluwaseunOlajide/AUDITS-/tree/main/blendcertora">blend certora Audit on C4</a></li>
