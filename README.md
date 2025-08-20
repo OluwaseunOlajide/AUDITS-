@@ -4,4 +4,4 @@
 <li>Audit contest reports</li>
 <li>Practice Audit reports</li>
 <h2>MY AUDITS SO FAR</h2>
-<li><a href="url">blend certora Audit on C4</a></li>
+<li><a href="https://github.com/OluwaseunOlajide/AUDITS-/tree/main/blendcertora">blend certora Audit on C4</a></li>
